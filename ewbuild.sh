@@ -1,0 +1,1 @@
+../eew/ewbuild/magit-with-editor.el/ewbuild.sh
