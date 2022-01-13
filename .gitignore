@@ -9,3 +9,7 @@
 /lisp/*.elc
 
 /docs/with-editor/
+dir
+with-editor-autoloads.el
+with-editor.elc
+with-editor.info
